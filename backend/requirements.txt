@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+sqlalchemy
+mariadb
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
+pymysql
+mysql-connector-python
+sqlalchemy
+openai

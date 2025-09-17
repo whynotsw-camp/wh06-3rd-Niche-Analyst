@@ -1,0 +1,23 @@
+[
+    {
+        "roi_group":"Top10",
+        "avg_exposure":2515662,
+        "avg_interest":2515662,
+        "avg_visit":1172138,
+        "avg_purchase":827609
+    },
+    {
+        "roi_group":"Top50",
+        "avg_exposure":3205181,
+        "avg_interest":3205181,
+        "avg_visit":2414448,
+        "avg_purchase":1036686
+    },
+    {
+        "roi_group":"Top80",
+        "avg_exposure":2299341,
+        "avg_interest":2299341,
+        "avg_visit":1669273,
+        "avg_purchase":700424
+    }
+]
